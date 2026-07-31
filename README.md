@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/bharathivallapuneni-coder/leetcode-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0907-sum-of-subarray-minimums](https://github.com/bharathivallapuneni-coder/leetcode-practice/tree/master/0907-sum-of-subarray-minimums) |
 ## Monotonic Stack
 |  |
@@ -29,4 +30,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bharathivallapuneni-coder/leetcode-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/bharathivallapuneni-coder/leetcode-practice/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/bharathivallapuneni-coder/leetcode-practice/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/bharathivallapuneni-coder/leetcode-practice/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
