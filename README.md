@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/bharathivallapuneni-coder/leetcode-practice/tree/master/0258-add-digits) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bharathivallapuneni-coder/leetcode-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## String
 |  |
@@ -42,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/bharathivallapuneni-coder/leetcode-practice/tree/master/0144-binary-tree-preorder-traversal) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/bharathivallapuneni-coder/leetcode-practice/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/bharathivallapuneni-coder/leetcode-practice/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
