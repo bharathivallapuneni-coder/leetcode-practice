@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/bharathivallapuneni-coder/leetcode-practice/tree/master/0268-missing-number) |
 | [0907-sum-of-subarray-minimums](https://github.com/bharathivallapuneni-coder/leetcode-practice/tree/master/0907-sum-of-subarray-minimums) |
 ## Dynamic Programming
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/bharathivallapuneni-coder/leetcode-practice/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/bharathivallapuneni-coder/leetcode-practice/tree/master/0268-missing-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bharathivallapuneni-coder/leetcode-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## String
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bharathivallapuneni-coder/leetcode-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0268-missing-number](https://github.com/bharathivallapuneni-coder/leetcode-practice/tree/master/0268-missing-number) |
 | [0450-delete-node-in-a-bst](https://github.com/bharathivallapuneni-coder/leetcode-practice/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/bharathivallapuneni-coder/leetcode-practice/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Lifting
@@ -90,4 +93,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bharathivallapuneni-coder/leetcode-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/bharathivallapuneni-coder/leetcode-practice/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/bharathivallapuneni-coder/leetcode-practice/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/bharathivallapuneni-coder/leetcode-practice/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
