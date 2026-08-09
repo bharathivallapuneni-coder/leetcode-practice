@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/bharathivallapuneni-coder/leetcode-practice/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/bharathivallapuneni-coder/leetcode-practice/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/bharathivallapuneni-coder/leetcode-practice/tree/master/0342-power-of-four) |
+| [0441-arranging-coins](https://github.com/bharathivallapuneni-coder/leetcode-practice/tree/master/0441-arranging-coins) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/bharathivallapuneni-coder/leetcode-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/bharathivallapuneni-coder/leetcode-practice/tree/master/3345-smallest-divisible-digit-product-i) |
 ## String
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bharathivallapuneni-coder/leetcode-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0268-missing-number](https://github.com/bharathivallapuneni-coder/leetcode-practice/tree/master/0268-missing-number) |
+| [0441-arranging-coins](https://github.com/bharathivallapuneni-coder/leetcode-practice/tree/master/0441-arranging-coins) |
 | [0450-delete-node-in-a-bst](https://github.com/bharathivallapuneni-coder/leetcode-practice/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/bharathivallapuneni-coder/leetcode-practice/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Lifting
