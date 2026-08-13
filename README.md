@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/bharathivallapuneni-coder/leetcode-practice/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/bharathivallapuneni-coder/leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bharathivallapuneni-coder/leetcode-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0907-sum-of-subarray-minimums](https://github.com/bharathivallapuneni-coder/leetcode-practice/tree/master/0907-sum-of-subarray-minimums) |
 ## Dynamic Programming
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bharathivallapuneni-coder/leetcode-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0268-missing-number](https://github.com/bharathivallapuneni-coder/leetcode-practice/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/bharathivallapuneni-coder/leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0441-arranging-coins](https://github.com/bharathivallapuneni-coder/leetcode-practice/tree/master/0441-arranging-coins) |
 | [0450-delete-node-in-a-bst](https://github.com/bharathivallapuneni-coder/leetcode-practice/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/bharathivallapuneni-coder/leetcode-practice/tree/master/0700-search-in-a-binary-search-tree) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/bharathivallapuneni-coder/leetcode-practice/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/bharathivallapuneni-coder/leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bharathivallapuneni-coder/leetcode-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Bit Manipulation
 |  |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/bharathivallapuneni-coder/leetcode-practice/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/bharathivallapuneni-coder/leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -125,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/bharathivallapuneni-coder/leetcode-practice/tree/master/0342-power-of-four) |
+## Two Pointers
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/bharathivallapuneni-coder/leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
