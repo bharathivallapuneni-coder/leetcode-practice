@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/bharathivallapuneni-coder/leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bharathivallapuneni-coder/leetcode-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0907-sum-of-subarray-minimums](https://github.com/bharathivallapuneni-coder/leetcode-practice/tree/master/0907-sum-of-subarray-minimums) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/bharathivallapuneni-coder/leetcode-practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/bharathivallapuneni-coder/leetcode-practice/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bharathivallapuneni-coder/leetcode-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bharathivallapuneni-coder/leetcode-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/bharathivallapuneni-coder/leetcode-practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
